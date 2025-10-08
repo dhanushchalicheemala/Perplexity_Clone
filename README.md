@@ -10,7 +10,7 @@ A modern AI-powered search and chat application that combines real-time web sear
 
 ## 🎬 Demo
 
-![Perplexity Clone Demo](./demo.gif)
+<img src="./demo.gif" alt="Perplexity Clone Demo" width="800" />
 
 *Watch the application in action - real-time search, AI responses, and streaming functionality*
 
