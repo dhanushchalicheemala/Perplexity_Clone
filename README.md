@@ -8,6 +8,12 @@ A modern AI-powered search and chat application that combines real-time web sear
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-orange)
 ![Tavily](https://img.shields.io/badge/Tavily-Search-purple)
 
+## 🎬 Demo
+
+![Perplexity Clone Demo](./demo.gif)
+
+*Watch the application in action - real-time search, AI responses, and streaming functionality*
+
 ## ✨ Features
 
 - 🔍 **Real-time Web Search**: Powered by Tavily Search API
